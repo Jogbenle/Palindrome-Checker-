@@ -12,4 +12,6 @@ function check(){
     } else {
         alert("NOT TODAY!")
     }
+
+    input.value = ""
 }
